@@ -1,7 +1,13 @@
 
 ![IAM Banner](https://raw.githubusercontent.com/valleyboy1/valleyboy1/main/file_00000000e7bc6230a6c2c898709e15c5.png)
 
-### ## 🧪 IAM Labs Portfolio
+<p align="center">
+  <img src="https://raw.githubusercontent.com/valleyboy1/valleyboy1/main/file_00000000e7bc6230a6c2c898709e15c5.png" alt="IAM Banner" width="100%">
+</p>
+
+---
+
+## 🧪 IAM Labs Portfolio
 
 Explore my hands-on labs focused on Microsoft Entra ID, PowerShell, and Microsoft Graph:
 
@@ -11,7 +17,18 @@ Includes:
 - 🔐 User lifecycle automation (onboarding/offboarding)
 - 🔄 Role-based access control (RBAC)
 - 🔁 Group & license automation
-- 🛡️ Conditional access & identity protection, I'm Valdez!
+- 🛡️ Conditional access & identity protection
+
+---
+
+## 🎓 Certifications
+
+- ✅ [AZ-900: Microsoft Certified – Azure Fundamentals](https://learn.microsoft.com/en-us/users/valdezbrown-9014/credentials/certification/azure-fundamentals?tab=credentials-tab)
+- ✅ [SC-900: Microsoft Certified – Security, Compliance, and Identity Fundamentals](https://learn.microsoft.com/en-us/users/valdezbrown-9014/credentials/certification/security-compliance-and-identity-fundamentals?tab=credentials-tab)
+
+📂 [View My Full Microsoft Learn Profile](https://learn.microsoft.com/en-us/users/valdezbrown-9014/)
+
+---
 
 # 💫 About Me:
 
