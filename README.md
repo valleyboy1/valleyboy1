@@ -1,6 +1,17 @@
 
 ![IAM Banner](https://raw.githubusercontent.com/valleyboy1/valleyboy1/main/file_00000000e7bc6230a6c2c898709e15c5.png)
-### Hello, I'm Valdez!
+
+### ## 🧪 IAM Labs Portfolio
+
+Explore my hands-on labs focused on Microsoft Entra ID, PowerShell, and Microsoft Graph:
+
+👉 [View IAM Labs Portfolio](https://github.com/valleyboy1/iam-labs-portfolio)
+
+Includes:
+- 🔐 User lifecycle automation (onboarding/offboarding)
+- 🔄 Role-based access control (RBAC)
+- 🔁 Group & license automation
+- 🛡️ Conditional access & identity protection, I'm Valdez!
 
 # 💫 About Me:
 
