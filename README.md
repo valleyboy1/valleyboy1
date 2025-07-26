@@ -1,5 +1,5 @@
-![AWS Training](https://github.com/valleyboy1/valleyboy1/blob/main/github%20image1%20header.png)
 
+![IAM Banner](https://raw.githubusercontent.com/valleyboy1/valleyboy1/main/file_00000000e7bc6230a6c2c898709e15c5.png)
 ### Hello, I'm Valdez!
 
 # 💫 About Me:
