@@ -1,5 +1,5 @@
 
-![IAM Banner](https://raw.githubusercontent.com/valleyboy1/valleyboy1/main/file_00000000e7bc6230a6c2c898709e15c5.png)
+![IAM Banner]
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/valleyboy1/valleyboy1/main/file_00000000e7bc6230a6c2c898709e15c5.png" alt="IAM Banner" width="100%">
