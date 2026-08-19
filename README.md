@@ -19,6 +19,19 @@ Includes:
 - 🛡️ Conditional access & identity protection
 
 ---
+## 🗄️ Oracle DBA Portfolio
+
+Enterprise Oracle Database lab environment built from scratch — Grid Infrastructure through OEM monitoring:
+
+🔗 [View Oracle DBA Portfolio](https://valleyboy1.github.io/oracle-dba-portfolio)
+
+Includes:
+- 🏗️ Grid Infrastructure 19c & Automatic Storage Management (ASM)
+- 💾 Oracle Database 19c Software Installation
+- 🛠️ Manual Database Creation — No DBCA
+- 📊 Oracle Enterprise Manager 13.5 — Full Deployment & Monitoring
+
+---
 
 ## 🎓 Certifications
 
