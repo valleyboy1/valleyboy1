@@ -44,9 +44,9 @@ Includes:
 
 # 💫 About Me:
 
-"Aspiring IAM Analyst focused on Microsoft Entra ID, automation with PowerShell & Microsoft Graph. Building real-world labs on user lifecycle management, RBAC, and conditional access. Documenting my learning journey to break into cloud security."
+Oracle DBA and IAM Engineer building enterprise-grade lab environments and documenting real-world technical skills. Hands-on experience with Oracle Grid Infrastructure, ASM, Oracle 19c, and OEM 13.5 — combined with Microsoft Entra ID, PowerShell automation, and identity lifecycle management.
 
-"Studying for SC-300 | Hands-on IAM labs with Entra ID & PowerShell | Future Cloud Security Engineer"
+"Building what I know. Documenting what I learn. Detroit made." 🏙️
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/valdez-brown-10442176/) 
