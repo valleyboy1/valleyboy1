@@ -5,20 +5,6 @@
 </p>
 
 ---
-
-## 🧪 IAM Labs Portfolio
-
-Explore my hands-on labs focused on Microsoft Entra ID, PowerShell, and Microsoft Graph:
-
-👉 [View IAM Labs Portfolio](https://github.com/valleyboy1/iam-labs-portfolio)
-
-Includes:
-- 🔐 User lifecycle automation (onboarding/offboarding)
-- 🔄 Role-based access control (RBAC)
-- 🔁 Group & license automation
-- 🛡️ Conditional access & identity protection
-
----
 ## 🗄️ Oracle DBA Portfolio
 
 Enterprise Oracle Database lab environment built from scratch — Grid Infrastructure through OEM monitoring:
@@ -32,6 +18,21 @@ Includes:
 - 📊 Oracle Enterprise Manager 13.5 — Full Deployment & Monitoring
 
 ---
+## 🧪 IAM Labs Portfolio
+
+Explore my hands-on labs focused on Microsoft Entra ID, PowerShell, and Microsoft Graph:
+
+👉 [View IAM Labs Portfolio](https://github.com/valleyboy1/iam-labs-portfolio)
+
+---
+
+Includes:
+- 🔐 User lifecycle automation (onboarding/offboarding)
+- 🔄 Role-based access control (RBAC)
+- 🔁 Group & license automation
+- 🛡️ Conditional access & identity protection
+
+
 
 ## 🎓 Certifications
 
