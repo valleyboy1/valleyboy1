@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://raw.githubusercontent.com/valleyboy1/valleyboy1/main/newgithubprofile%20photo.png" alt="Oracle DBA Banner" width="100%">
+ <img src="https://github.com/valleyboy1/valleyboy1/blob/main/microsoft%20penguin%20owl%20image%20for%20github.png?raw=true" alt="IT HelpDesk" width="100%">
 </p>
 
 ### 🎫 IT Helpdesk Lab
