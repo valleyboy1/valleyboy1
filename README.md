@@ -1,4 +1,6 @@
-
+### 🎫 IT Helpdesk Lab
+Building hands-on Help Desk skills in Azure — Active Directory domain administration, network troubleshooting (NSG/Wireshark), and ticket triage in osTicket — as part of the CourseCareers IT Helpdesk program.
+→ [it-helpdesk-portfolio](https://github.com/valleyboy1/it-helpdesk-portfolio)
 
 <p align="center">
  <img src="https://raw.githubusercontent.com/valleyboy1/valleyboy1/main/newgithubprofile%20photo.png" alt="Oracle DBA Banner" width="100%">
